@@ -1,3 +1,3 @@
 
 echo $APP_NAME
-sleep 5
+sleep 60
